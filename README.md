@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Gusttavo Lima, tenho 31 anos e sou natural de Manaus/Amazonas. Concluí recentemente meu ensino superior em Análise e desenvolvmento de distemas. Sou apaixonado por tecnologia e jogos, atualmente estou em uma jornada para seguir meu sonho, que é me tornar um desenvolvedor Full-Stack. Postarei toda minha jornada em meu linkedin "[Gusttavo lima](https://www.linkedin.com/in/gusttavolima/)" e em meu GtHub "[FollingTheDev](https://github.com/FollingTheDev)".
+Me chamo Gusttavo Lima, tenho 31 anos e sou natural de Manaus/Amazonas. Concluí recentemente meu ensino superior em Análise e desenvolvmento de sistemas. Sou apaixonado por tecnologia e jogos, atualmente estou em uma jornada para seguir meu sonho, que é me tornar um desenvolvedor Full-Stack. Postarei toda minha jornada em meu linkedin "[Gusttavo lima](https://www.linkedin.com/in/gusttavolima/)" e em meu GtHub "[FollingTheDev](https://github.com/FollingTheDev)".
 
 <p align="left">
     <a href="https://github.com/FollingTheDev?tab=repositories&sort=stargazers">
