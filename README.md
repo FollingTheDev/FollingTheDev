@@ -1,4 +1,4 @@
-# 🐱‍👤 Gusttavo Lima
+# Gusttavo Lima
 
 **`Desenvolvedor Front-End`**
 
